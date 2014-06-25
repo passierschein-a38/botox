@@ -1,0 +1,4 @@
+LIBRARY	"botox"
+
+EXPORTS
+	DllMain @1
